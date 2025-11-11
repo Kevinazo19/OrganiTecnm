@@ -1,0 +1,4 @@
+// lib/constants.dart
+
+const String TURSO_API_URL = 'https://organitecnm-kevinazo19.aws-us-west-2.turso.io';
+const String TURSO_AUTH_TOKEN = 'eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJleHAiOjE3Njc4NDI0OTgsImlhdCI6MTc2MjY1ODQ5OCwiaWQiOiIzYTUwNTExOC02NmJjLTRlZmItODA1Ni0wMmRhODI1YTc3NjciLCJyaWQiOiJlYjczYjhhZC03YjZiLTQ1ODMtOTQwMC1kYzcwOTUxNjZiMWUifQ.0dI7WvCU30-U2iZp1AxGUBPsvpW0gPa3mNhWw_OgtbFWlU-8u9y67hTsClVqRrz4_uaymKoHZet6qLC2MifbCw';
